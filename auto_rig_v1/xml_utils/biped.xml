@@ -1,0 +1,1237 @@
+<root>
+    <root_jnt>
+    <tx value = "0.0"/>
+    <ty value = "9.55926247758"/>
+    <tz value = "-0.0876226454704"/>
+    <rx value = "-90.0"/>
+    <ry value = "-8.85795876349"/>
+    <rz value = "90.0"/>
+    <sx value = "1.0"/>
+    <sy value = "1.0"/>
+    <sz value = "1.0"/>
+    <children>
+            <spine_01_jnt>
+            <tx value = "-1.23259516441e-32"/>
+            <ty value = "10.8433767339"/>
+            <tz value = "0.11249905681"/>
+            <rx value = "90.0"/>
+            <ry value = "8.93059010069"/>
+            <rz value = "90.0"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                    <spine_02_jnt>
+                    <tx value = "-1.28406461346e-15"/>
+                    <ty value = "12.0107533305"/>
+                    <tz value = "-0.070945836947"/>
+                    <rx value = "90.0"/>
+                    <ry value = "15.83238662"/>
+                    <rz value = "90.0"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                            <spine_03_jnt>
+                            <tx value = "-3.06596866592e-15"/>
+                            <ty value = "13.1280995016"/>
+                            <tz value = "-0.387805198892"/>
+                            <rx value = "90.0"/>
+                            <ry value = "7.7651660187"/>
+                            <rz value = "90.0"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                    <spine_04_jnt>
+                                    <tx value = "-4.76823140546e-15"/>
+                                    <ty value = "14.2287688641"/>
+                                    <tz value = "-0.537896475602"/>
+                                    <rx value = "-90.0"/>
+                                    <ry value = "-17.4747742556"/>
+                                    <rz value = "90.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                            <neck_01_jnt>
+                                            <tx value = "-6.43437214051e-15"/>
+                                            <ty value = "15.1293165244"/>
+                                            <tz value = "-0.254390730704"/>
+                                            <rx value = "-90.0"/>
+                                            <ry value = "-22.222344683"/>
+                                            <rz value = "90.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <neck_02_jnt>
+                                                    <tx value = "-8.21600756672e-15"/>
+                                                    <ty value = "15.9122222453"/>
+                                                    <tz value = "0.0654634051262"/>
+                                                    <rx value = "-90.0"/>
+                                                    <ry value = "-2.726310994"/>
+                                                    <rz value = "90.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <head_jnt>
+                                                            <tx value = "-9.68820857097e-15"/>
+                                                            <ty value = "16.7952070288"/>
+                                                            <tz value = "0.10751029958"/>
+                                                            <rx value = "90.0"/>
+                                                            <ry value = "2.26795453582"/>
+                                                            <rz value = "90.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                    <head_tip_jnt>
+                                                                    <tx value = "-1.24564098745e-14"/>
+                                                                    <ty value = "18.2107858088"/>
+                                                                    <tz value = "0.0514477736415"/>
+                                                                    <rx value = "0.0"/>
+                                                                    <ry value = "0.0"/>
+                                                                    <rz value = "0.0"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                    </children>
+                                                                    </head_tip_jnt>
+                                                            </children>
+                                                            </head_jnt>
+                                                    </children>
+                                                    </neck_02_jnt>
+                                            </children>
+                                            </neck_01_jnt>
+                                            <clavicle_l_jnt>
+                                            <tx value = "0.360494940202"/>
+                                            <ty value = "14.4346220279"/>
+                                            <tz value = "0.448211293908"/>
+                                            <rx value = "1.975545173"/>
+                                            <ry value = "30.4501295662"/>
+                                            <rz value = "3.89370755479"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <shoulder_l_jnt>
+                                                    <tx value = "2.02461474578"/>
+                                                    <ty value = "14.5478867267"/>
+                                                    <tz value = "-0.53234352489"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "4.66703131729"/>
+                                                    <rz value = "2.664966401e-06"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <elbow_l_jnt>
+                                                            <tx value = "4.64111923845"/>
+                                                            <ty value = "14.5478868484"/>
+                                                            <tz value = "-0.745943678858"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "-4.69359729773"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                    <wrist_l_jnt>
+                                                                    <tx value = "7.24274851582"/>
+                                                                    <ty value = "14.5478868484"/>
+                                                                    <tz value = "-0.532343506813"/>
+                                                                    <rx value = "0.0"/>
+                                                                    <ry value = "0.0"/>
+                                                                    <rz value = "0.0"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                            <hand_l_jnt>
+                                                                            <tx value = "7.73677809238"/>
+                                                                            <ty value = "14.5546054212"/>
+                                                                            <tz value = "-0.487721480543"/>
+                                                                            <rx value = "0.0"/>
+                                                                            <ry value = "0.0"/>
+                                                                            <rz value = "0.0"/>
+                                                                            <sx value = "1.0"/>
+                                                                            <sy value = "1.0"/>
+                                                                            <sz value = "1.0"/>
+                                                                            <children>
+                                                                                    <thumb_01_fng_l_jnt>
+                                                                                    <tx value = "7.55410663897"/>
+                                                                                    <ty value = "14.4443870504"/>
+                                                                                    <tz value = "-0.228735581789"/>
+                                                                                    <rx value = "79.6338506476"/>
+                                                                                    <ry value = "-33.8398077868"/>
+                                                                                    <rz value = "-51.1237655476"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <thumb_02_fng_l_jnt>
+                                                                                            <tx value = "7.69444488148"/>
+                                                                                            <ty value = "14.2703162681"/>
+                                                                                            <tz value = "-0.07882559977"/>
+                                                                                            <rx value = "70.7142348695"/>
+                                                                                            <ry value = "-44.8395533001"/>
+                                                                                            <rz value = "-41.6755482173"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <thumb_03_fng_l_jnt>
+                                                                                                    <tx value = "7.90138075916"/>
+                                                                                                    <ty value = "14.0861014839"/>
+                                                                                                    <tz value = "0.196678580687"/>
+                                                                                                    <rx value = "68.2700515566"/>
+                                                                                                    <ry value = "-53.4178582859"/>
+                                                                                                    <rz value = "-38.0185474857"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <thumb_tip_fng_l_jnt>
+                                                                                                            <tx value = "8.06016266261"/>
+                                                                                                            <ty value = "13.961964669"/>
+                                                                                                            <tz value = "0.468240134556"/>
+                                                                                                            <rx value = "18.2525837624"/>
+                                                                                                            <ry value = "-32.8376666156"/>
+                                                                                                            <rz value = "20.5573602314"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </thumb_tip_fng_l_jnt>
+                                                                                                    </children>
+                                                                                                    </thumb_03_fng_l_jnt>
+                                                                                            </children>
+                                                                                            </thumb_02_fng_l_jnt>
+                                                                                    </children>
+                                                                                    </thumb_01_fng_l_jnt>
+                                                                                    <index_01_fng_l_jnt>
+                                                                                    <tx value = "8.16132476037"/>
+                                                                                    <ty value = "14.5492480111"/>
+                                                                                    <tz value = "-0.194037403423"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <index_02_fng_l_jnt>
+                                                                                            <tx value = "8.59272867628"/>
+                                                                                            <ty value = "14.4950657496"/>
+                                                                                            <tz value = "-0.166398953673"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <index_03_fng_l_jnt>
+                                                                                                    <tx value = "8.88670608708"/>
+                                                                                                    <ty value = "14.4333219463"/>
+                                                                                                    <tz value = "-0.14575628686"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <index_tip_fng_l_jnt>
+                                                                                                            <tx value = "9.11106338109"/>
+                                                                                                            <ty value = "14.3870611698"/>
+                                                                                                            <tz value = "-0.126811642928"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </index_tip_fng_l_jnt>
+                                                                                                    </children>
+                                                                                                    </index_03_fng_l_jnt>
+                                                                                            </children>
+                                                                                            </index_02_fng_l_jnt>
+                                                                                    </children>
+                                                                                    </index_01_fng_l_jnt>
+                                                                                    <mid_01_fng_l_jnt>
+                                                                                    <tx value = "8.1415169647"/>
+                                                                                    <ty value = "14.5623303126"/>
+                                                                                    <tz value = "-0.430331443562"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <mid_02_fng_l_jnt>
+                                                                                            <tx value = "8.63014265081"/>
+                                                                                            <ty value = "14.5107851386"/>
+                                                                                            <tz value = "-0.452225944799"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <mid_03_fng_l_jnt>
+                                                                                                    <tx value = "8.96272021407"/>
+                                                                                                    <ty value = "14.4333219463"/>
+                                                                                                    <tz value = "-0.467165195563"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <mid_tip_fng_l_jnt>
+                                                                                                            <tx value = "9.17391003831"/>
+                                                                                                            <ty value = "14.4064435154"/>
+                                                                                                            <tz value = "-0.472649496298"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </mid_tip_fng_l_jnt>
+                                                                                                    </children>
+                                                                                                    </mid_03_fng_l_jnt>
+                                                                                            </children>
+                                                                                            </mid_02_fng_l_jnt>
+                                                                                    </children>
+                                                                                    </mid_01_fng_l_jnt>
+                                                                                    <ring_01_fng_l_jnt>
+                                                                                    <tx value = "8.06869184686"/>
+                                                                                    <ty value = "14.4969305232"/>
+                                                                                    <tz value = "-0.65584366731"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <ring_02_fng_l_jnt>
+                                                                                            <tx value = "8.46518624774"/>
+                                                                                            <ty value = "14.4477240301"/>
+                                                                                            <tz value = "-0.706027125106"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <ring_03_fng_l_jnt>
+                                                                                                    <tx value = "8.73286387521"/>
+                                                                                                    <ty value = "14.3822890292"/>
+                                                                                                    <tz value = "-0.751104436497"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <ring_tip_fng_l_jnt>
+                                                                                                            <tx value = "8.98808615807"/>
+                                                                                                            <ty value = "14.3554105983"/>
+                                                                                                            <tz value = "-0.786398006532"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </ring_tip_fng_l_jnt>
+                                                                                                    </children>
+                                                                                                    </ring_03_fng_l_jnt>
+                                                                                            </children>
+                                                                                            </ring_02_fng_l_jnt>
+                                                                                    </children>
+                                                                                    </ring_01_fng_l_jnt>
+                                                                                    <pinky_01_fng_l_jnt>
+                                                                                    <tx value = "8.004000307"/>
+                                                                                    <ty value = "14.4379039497"/>
+                                                                                    <tz value = "-0.861930920681"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <pinky_02_fng_l_jnt>
+                                                                                            <tx value = "8.33797804128"/>
+                                                                                            <ty value = "14.406648777"/>
+                                                                                            <tz value = "-0.92279004879"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <pinky_03_fng_l_jnt>
+                                                                                                    <tx value = "8.53650524845"/>
+                                                                                                    <ty value = "14.330361133"/>
+                                                                                                    <tz value = "-0.960458277694"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <pinky_tip_fng_l_jnt>
+                                                                                                            <tx value = "8.72240399921"/>
+                                                                                                            <ty value = "14.2867557952"/>
+                                                                                                            <tz value = "-0.98090293126"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </pinky_tip_fng_l_jnt>
+                                                                                                    </children>
+                                                                                                    </pinky_03_fng_l_jnt>
+                                                                                            </children>
+                                                                                            </pinky_02_fng_l_jnt>
+                                                                                    </children>
+                                                                                    </pinky_01_fng_l_jnt>
+                                                                            </children>
+                                                                            </hand_l_jnt>
+                                                                    </children>
+                                                                    </wrist_l_jnt>
+                                                            </children>
+                                                            </elbow_l_jnt>
+                                                    </children>
+                                                    </shoulder_l_jnt>
+                                            </children>
+                                            </clavicle_l_jnt>
+                                            <clavicle_r_jnt>
+                                            <tx value = "-0.360495"/>
+                                            <ty value = "14.4346"/>
+                                            <tz value = "0.448211"/>
+                                            <rx value = "178.023831515"/>
+                                            <ry value = "30.4501701639"/>
+                                            <rz value = "176.105071415"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <shoulder_r_jnt>
+                                                    <tx value = "-2.02461"/>
+                                                    <ty value = "14.5479"/>
+                                                    <tz value = "-0.532344"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "175.332981812"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <elbow_r_jnt>
+                                                            <tx value = "-4.64112"/>
+                                                            <ty value = "14.5479"/>
+                                                            <tz value = "-0.745944"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "184.693592236"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                                    <wrist_r_jnt>
+                                                                    <tx value = "-7.24275"/>
+                                                                    <ty value = "14.5479"/>
+                                                                    <tz value = "-0.532344"/>
+                                                                    <rx value = "0.0"/>
+                                                                    <ry value = "0.0"/>
+                                                                    <rz value = "0.0"/>
+                                                                    <sx value = "1.0"/>
+                                                                    <sy value = "1.0"/>
+                                                                    <sz value = "1.0"/>
+                                                                    <children>
+                                                                            <hand_r_jnt>
+                                                                            <tx value = "-7.73678"/>
+                                                                            <ty value = "14.5546"/>
+                                                                            <tz value = "-0.487721"/>
+                                                                            <rx value = "0.0"/>
+                                                                            <ry value = "0.0"/>
+                                                                            <rz value = "0.0"/>
+                                                                            <sx value = "1.0"/>
+                                                                            <sy value = "1.0"/>
+                                                                            <sz value = "1.0"/>
+                                                                            <children>
+                                                                                    <thumb_01_fng_r_jnt>
+                                                                                    <tx value = "-7.55411"/>
+                                                                                    <ty value = "14.4444"/>
+                                                                                    <tz value = "-0.228736"/>
+                                                                                    <rx value = "100.361480002"/>
+                                                                                    <ry value = "-33.8377988441"/>
+                                                                                    <rz value = "-128.869891571"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <thumb_02_fng_r_jnt>
+                                                                                            <tx value = "-7.69444"/>
+                                                                                            <ty value = "14.2703"/>
+                                                                                            <tz value = "-0.0788256"/>
+                                                                                            <rx value = "109.286736788"/>
+                                                                                            <ry value = "-44.8472220035"/>
+                                                                                            <rz value = "-138.323993494"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <thumb_03_fng_r_jnt>
+                                                                                                    <tx value = "-7.90134095249"/>
+                                                                                                    <ty value = "14.0861133398"/>
+                                                                                                    <tz value = "0.196707792464"/>
+                                                                                                    <rx value = "111.730341833"/>
+                                                                                                    <ry value = "-53.4237751912"/>
+                                                                                                    <rz value = "-141.980012095"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <thumb_tip_fng_r_jnt>
+                                                                                                            <tx value = "-8.0600960537"/>
+                                                                                                            <ty value = "13.9619910485"/>
+                                                                                                            <tz value = "0.468287442825"/>
+                                                                                                            <rx value = "18.249656607"/>
+                                                                                                            <ry value = "32.8402191434"/>
+                                                                                                            <rz value = "-20.556485955"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </thumb_tip_fng_r_jnt>
+                                                                                                    </children>
+                                                                                                    </thumb_03_fng_r_jnt>
+                                                                                            </children>
+                                                                                            </thumb_02_fng_r_jnt>
+                                                                                    </children>
+                                                                                    </thumb_01_fng_r_jnt>
+                                                                                    <index_01_fng_r_jnt>
+                                                                                    <tx value = "-8.16132"/>
+                                                                                    <ty value = "14.5492"/>
+                                                                                    <tz value = "-0.194037"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <index_02_fng_r_jnt>
+                                                                                            <tx value = "-8.59273"/>
+                                                                                            <ty value = "14.4951"/>
+                                                                                            <tz value = "-0.166399"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <index_03_fng_r_jnt>
+                                                                                                    <tx value = "-8.88671"/>
+                                                                                                    <ty value = "14.4333"/>
+                                                                                                    <tz value = "-0.145756"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <index_tip_fng_r_jnt>
+                                                                                                            <tx value = "-9.11106"/>
+                                                                                                            <ty value = "14.3871"/>
+                                                                                                            <tz value = "-0.126812"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </index_tip_fng_r_jnt>
+                                                                                                    </children>
+                                                                                                    </index_03_fng_r_jnt>
+                                                                                            </children>
+                                                                                            </index_02_fng_r_jnt>
+                                                                                    </children>
+                                                                                    </index_01_fng_r_jnt>
+                                                                                    <mid_01_fng_r_jnt>
+                                                                                    <tx value = "-8.14152"/>
+                                                                                    <ty value = "14.5623"/>
+                                                                                    <tz value = "-0.430331"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <mid_02_fng_r_jnt>
+                                                                                            <tx value = "-8.63014"/>
+                                                                                            <ty value = "14.5108"/>
+                                                                                            <tz value = "-0.452226"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <mid_03_fng_r_jnt>
+                                                                                                    <tx value = "-8.96272"/>
+                                                                                                    <ty value = "14.4333"/>
+                                                                                                    <tz value = "-0.467165"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <mid_tip_fng_r_jnt>
+                                                                                                            <tx value = "-9.17391"/>
+                                                                                                            <ty value = "14.4064"/>
+                                                                                                            <tz value = "-0.472649"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </mid_tip_fng_r_jnt>
+                                                                                                    </children>
+                                                                                                    </mid_03_fng_r_jnt>
+                                                                                            </children>
+                                                                                            </mid_02_fng_r_jnt>
+                                                                                    </children>
+                                                                                    </mid_01_fng_r_jnt>
+                                                                                    <ring_01_fng_r_jnt>
+                                                                                    <tx value = "-8.06869"/>
+                                                                                    <ty value = "14.4969"/>
+                                                                                    <tz value = "-0.655844"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <ring_02_fng_r_jnt>
+                                                                                            <tx value = "-8.46519"/>
+                                                                                            <ty value = "14.4477"/>
+                                                                                            <tz value = "-0.706027"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <ring_03_fng_r_jnt>
+                                                                                                    <tx value = "-8.73286"/>
+                                                                                                    <ty value = "14.3823"/>
+                                                                                                    <tz value = "-0.751104"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <ring_tip_fng_r_jnt>
+                                                                                                            <tx value = "-8.98809"/>
+                                                                                                            <ty value = "14.3554"/>
+                                                                                                            <tz value = "-0.786398"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </ring_tip_fng_r_jnt>
+                                                                                                    </children>
+                                                                                                    </ring_03_fng_r_jnt>
+                                                                                            </children>
+                                                                                            </ring_02_fng_r_jnt>
+                                                                                    </children>
+                                                                                    </ring_01_fng_r_jnt>
+                                                                                    <pinky_01_fng_r_jnt>
+                                                                                    <tx value = "-8.004"/>
+                                                                                    <ty value = "14.4379"/>
+                                                                                    <tz value = "-0.861931"/>
+                                                                                    <rx value = "0.0"/>
+                                                                                    <ry value = "0.0"/>
+                                                                                    <rz value = "0.0"/>
+                                                                                    <sx value = "1.0"/>
+                                                                                    <sy value = "1.0"/>
+                                                                                    <sz value = "1.0"/>
+                                                                                    <children>
+                                                                                            <pinky_02_fng_r_jnt>
+                                                                                            <tx value = "-8.33798"/>
+                                                                                            <ty value = "14.4066"/>
+                                                                                            <tz value = "-0.92279"/>
+                                                                                            <rx value = "0.0"/>
+                                                                                            <ry value = "0.0"/>
+                                                                                            <rz value = "0.0"/>
+                                                                                            <sx value = "1.0"/>
+                                                                                            <sy value = "1.0"/>
+                                                                                            <sz value = "1.0"/>
+                                                                                            <children>
+                                                                                                    <pinky_03_fng_r_jnt>
+                                                                                                    <tx value = "-8.53651"/>
+                                                                                                    <ty value = "14.3304"/>
+                                                                                                    <tz value = "-0.960458"/>
+                                                                                                    <rx value = "0.0"/>
+                                                                                                    <ry value = "0.0"/>
+                                                                                                    <rz value = "0.0"/>
+                                                                                                    <sx value = "1.0"/>
+                                                                                                    <sy value = "1.0"/>
+                                                                                                    <sz value = "1.0"/>
+                                                                                                    <children>
+                                                                                                            <pinky_tip_fng_r_jnt>
+                                                                                                            <tx value = "-8.7224"/>
+                                                                                                            <ty value = "14.2868"/>
+                                                                                                            <tz value = "-0.980903"/>
+                                                                                                            <rx value = "0.0"/>
+                                                                                                            <ry value = "0.0"/>
+                                                                                                            <rz value = "0.0"/>
+                                                                                                            <sx value = "1.0"/>
+                                                                                                            <sy value = "1.0"/>
+                                                                                                            <sz value = "1.0"/>
+                                                                                                            <children>
+                                                                                                            </children>
+                                                                                                            </pinky_tip_fng_r_jnt>
+                                                                                                    </children>
+                                                                                                    </pinky_03_fng_r_jnt>
+                                                                                            </children>
+                                                                                            </pinky_02_fng_r_jnt>
+                                                                                    </children>
+                                                                                    </pinky_01_fng_r_jnt>
+                                                                            </children>
+                                                                            </hand_r_jnt>
+                                                                    </children>
+                                                                    </wrist_r_jnt>
+                                                            </children>
+                                                            </elbow_r_jnt>
+                                                    </children>
+                                                    </shoulder_r_jnt>
+                                            </children>
+                                            </clavicle_r_jnt>
+                                    </children>
+                                    </spine_04_jnt>
+                            </children>
+                            </spine_03_jnt>
+                    </children>
+                    </spine_02_jnt>
+            </children>
+            </spine_01_jnt>
+            <hip_l_jnt>
+            <tx value = "1.07725827732"/>
+            <ty value = "9.79934678475"/>
+            <tz value = "-2.91433543964e-16"/>
+            <rx value = "93.6179373729"/>
+            <ry value = "-8.80210554268"/>
+            <rz value = "-90.5543442601"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                    <knee_l_jnt>
+                    <tx value = "1.03042626659"/>
+                    <ty value = "4.95904622075"/>
+                    <tz value = "0.749535336167"/>
+                    <rx value = "-88.0568225551"/>
+                    <ry value = "17.3207292959"/>
+                    <rz value = "-89.4212744344"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                            <ankle_l_jnt>
+                            <tx value = "1.07085991564"/>
+                            <ty value = "0.956114964825"/>
+                            <tz value = "-0.498891508101"/>
+                            <rx value = "0.0"/>
+                            <ry value = "0.0"/>
+                            <rz value = "0.0"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                    <ball_l_jnt>
+                                    <tx value = "1.17778029111"/>
+                                    <ty value = "0.191072942179"/>
+                                    <tz value = "0.860096630179"/>
+                                    <rx value = "0.0"/>
+                                    <ry value = "0.0"/>
+                                    <rz value = "0.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                            <big_01_toe_l_jnt>
+                                            <tx value = "0.814903527985"/>
+                                            <ty value = "0.187141647975"/>
+                                            <tz value = "1.37819862053"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <big_tip_toe_l_jnt>
+                                                    <tx value = "0.85769161761"/>
+                                                    <ty value = "0.0747457996343"/>
+                                                    <tz value = "1.83297960792"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                    </children>
+                                                    </big_tip_toe_l_jnt>
+                                            </children>
+                                            </big_01_toe_l_jnt>
+                                            <index_01_toe_l_jnt>
+                                            <tx value = "1.09298228173"/>
+                                            <ty value = "0.194489804186"/>
+                                            <tz value = "1.36913874692"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <index_02_toe_l_jnt>
+                                                    <tx value = "1.10331691271"/>
+                                                    <ty value = "0.155406307702"/>
+                                                    <tz value = "1.52889077927"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <index_tip_toe_l_jnt>
+                                                            <tx value = "1.11840280591"/>
+                                                            <ty value = "0.0751266268233"/>
+                                                            <tz value = "1.76200139335"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </index_tip_toe_l_jnt>
+                                                    </children>
+                                                    </index_02_toe_l_jnt>
+                                            </children>
+                                            </index_01_toe_l_jnt>
+                                            <mid_01_toe_l_jnt>
+                                            <tx value = "1.29172456168"/>
+                                            <ty value = "0.169504587522"/>
+                                            <tz value = "1.30905387159"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <mid_02_toe_l_jnt>
+                                                    <tx value = "1.29254"/>
+                                                    <ty value = "0.135905705796"/>
+                                                    <tz value = "1.44076849191"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <mid_tip_toe_l_jnt>
+                                                            <tx value = "1.29403551843"/>
+                                                            <ty value = "0.0740050371444"/>
+                                                            <tz value = "1.67727030779"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </mid_tip_toe_l_jnt>
+                                                    </children>
+                                                    </mid_02_toe_l_jnt>
+                                            </children>
+                                            </mid_01_toe_l_jnt>
+                                            <ring_01_toe_l_jnt>
+                                            <tx value = "1.48122301467"/>
+                                            <ty value = "0.150533054982"/>
+                                            <tz value = "1.20737177487"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <ring_02_toe_l_jnt>
+                                                    <tx value = "1.47117"/>
+                                                    <ty value = "0.117091705796"/>
+                                                    <tz value = "1.35518849191"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <ring_tip_toe_l_jnt>
+                                                            <tx value = "1.45811344723"/>
+                                                            <ty value = "0.0736800968144"/>
+                                                            <tz value = "1.54708241619"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </ring_tip_toe_l_jnt>
+                                                    </children>
+                                                    </ring_02_toe_l_jnt>
+                                            </children>
+                                            </ring_01_toe_l_jnt>
+                                            <pinky_01_toe_l_jnt>
+                                            <tx value = "1.64298998672"/>
+                                            <ty value = "0.131705437391"/>
+                                            <tz value = "1.12186637535"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <pinky_tip_toe_l_jnt>
+                                                    <tx value = "1.61988041929"/>
+                                                    <ty value = "0.0641966444869"/>
+                                                    <tz value = "1.38287849769"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                    </children>
+                                                    </pinky_tip_toe_l_jnt>
+                                            </children>
+                                            </pinky_01_toe_l_jnt>
+                                    </children>
+                                    </ball_l_jnt>
+                                    <heel_l_jnt>
+                                    <tx value = "1.09298228173"/>
+                                    <ty value = "0.194489804186"/>
+                                    <tz value = "-1.12299937954"/>
+                                    <rx value = "0.0"/>
+                                    <ry value = "0.0"/>
+                                    <rz value = "0.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                    </children>
+                                    </heel_l_jnt>
+                            </children>
+                            </ankle_l_jnt>
+                    </children>
+                    </knee_l_jnt>
+            </children>
+            </hip_l_jnt>
+            <hip_r_jnt>
+            <tx value = "-1.07726"/>
+            <ty value = "9.79935"/>
+            <tz value = "2.77555756156e-17"/>
+            <rx value = "86.3822159743"/>
+            <ry value = "-8.80210270105"/>
+            <rz value = "-89.4456794746"/>
+            <sx value = "1.0"/>
+            <sy value = "1.0"/>
+            <sz value = "1.0"/>
+            <children>
+                    <knee_r_jnt>
+                    <tx value = "-1.03043"/>
+                    <ty value = "4.95905"/>
+                    <tz value = "0.749535"/>
+                    <rx value = "-91.9430018136"/>
+                    <ry value = "17.3207162471"/>
+                    <rz value = "-90.5786727992"/>
+                    <sx value = "1.0"/>
+                    <sy value = "1.0"/>
+                    <sz value = "1.0"/>
+                    <children>
+                            <ankle_r_jnt>
+                            <tx value = "-1.07086"/>
+                            <ty value = "0.956114999996"/>
+                            <tz value = "-0.498891999989"/>
+                            <rx value = "0.0"/>
+                            <ry value = "0.0"/>
+                            <rz value = "0.0"/>
+                            <sx value = "1.0"/>
+                            <sy value = "1.0"/>
+                            <sz value = "1.0"/>
+                            <children>
+                                    <ball_r_jnt>
+                                    <tx value = "-1.17778"/>
+                                    <ty value = "0.191073"/>
+                                    <tz value = "0.860097"/>
+                                    <rx value = "0.0"/>
+                                    <ry value = "0.0"/>
+                                    <rz value = "0.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                            <big_01_toe_r_jnt>
+                                            <tx value = "-0.814904"/>
+                                            <ty value = "0.187142"/>
+                                            <tz value = "1.3782"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <big_tip_toe_r_jnt>
+                                                    <tx value = "-0.857692"/>
+                                                    <ty value = "0.0747458000002"/>
+                                                    <tz value = "1.83298"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                    </children>
+                                                    </big_tip_toe_r_jnt>
+                                            </children>
+                                            </big_01_toe_r_jnt>
+                                            <index_01_toe_r_jnt>
+                                            <tx value = "-1.09298"/>
+                                            <ty value = "0.19449"/>
+                                            <tz value = "1.36914"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <index_02_toe_r_jnt>
+                                                    <tx value = "-1.10332"/>
+                                                    <ty value = "0.155406"/>
+                                                    <tz value = "1.52889"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <index_tip_toe_r_jnt>
+                                                            <tx value = "-1.1184"/>
+                                                            <ty value = "0.0751266000002"/>
+                                                            <tz value = "1.762"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </index_tip_toe_r_jnt>
+                                                    </children>
+                                                    </index_02_toe_r_jnt>
+                                            </children>
+                                            </index_01_toe_r_jnt>
+                                            <mid_01_toe_r_jnt>
+                                            <tx value = "-1.29172"/>
+                                            <ty value = "0.169505"/>
+                                            <tz value = "1.30905"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <mid_02_toe_r_jnt>
+                                                    <tx value = "-1.29254"/>
+                                                    <ty value = "0.135906"/>
+                                                    <tz value = "1.44077"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <mid_tip_toe_r_jnt>
+                                                            <tx value = "-1.29404"/>
+                                                            <ty value = "0.0740050000001"/>
+                                                            <tz value = "1.67727"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </mid_tip_toe_r_jnt>
+                                                    </children>
+                                                    </mid_02_toe_r_jnt>
+                                            </children>
+                                            </mid_01_toe_r_jnt>
+                                            <ring_01_toe_r_jnt>
+                                            <tx value = "-1.48122"/>
+                                            <ty value = "0.150533"/>
+                                            <tz value = "1.20737"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <ring_02_toe_r_jnt>
+                                                    <tx value = "-1.47117"/>
+                                                    <ty value = "0.117092"/>
+                                                    <tz value = "1.35519"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                            <ring_tip_toe_r_jnt>
+                                                            <tx value = "-1.45811"/>
+                                                            <ty value = "0.0736801000001"/>
+                                                            <tz value = "1.54708"/>
+                                                            <rx value = "0.0"/>
+                                                            <ry value = "0.0"/>
+                                                            <rz value = "0.0"/>
+                                                            <sx value = "1.0"/>
+                                                            <sy value = "1.0"/>
+                                                            <sz value = "1.0"/>
+                                                            <children>
+                                                            </children>
+                                                            </ring_tip_toe_r_jnt>
+                                                    </children>
+                                                    </ring_02_toe_r_jnt>
+                                            </children>
+                                            </ring_01_toe_r_jnt>
+                                            <pinky_01_toe_r_jnt>
+                                            <tx value = "-1.64299"/>
+                                            <ty value = "0.131705"/>
+                                            <tz value = "1.12187"/>
+                                            <rx value = "0.0"/>
+                                            <ry value = "0.0"/>
+                                            <rz value = "0.0"/>
+                                            <sx value = "1.0"/>
+                                            <sy value = "1.0"/>
+                                            <sz value = "1.0"/>
+                                            <children>
+                                                    <pinky_tip_toe_r_jnt>
+                                                    <tx value = "-1.61988"/>
+                                                    <ty value = "0.0641966000001"/>
+                                                    <tz value = "1.38288"/>
+                                                    <rx value = "0.0"/>
+                                                    <ry value = "0.0"/>
+                                                    <rz value = "0.0"/>
+                                                    <sx value = "1.0"/>
+                                                    <sy value = "1.0"/>
+                                                    <sz value = "1.0"/>
+                                                    <children>
+                                                    </children>
+                                                    </pinky_tip_toe_r_jnt>
+                                            </children>
+                                            </pinky_01_toe_r_jnt>
+                                    </children>
+                                    </ball_r_jnt>
+                                    <heel_r_jnt>
+                                    <tx value = "-1.09298"/>
+                                    <ty value = "0.19449"/>
+                                    <tz value = "-1.123"/>
+                                    <rx value = "0.0"/>
+                                    <ry value = "0.0"/>
+                                    <rz value = "0.0"/>
+                                    <sx value = "1.0"/>
+                                    <sy value = "1.0"/>
+                                    <sz value = "1.0"/>
+                                    <children>
+                                    </children>
+                                    </heel_r_jnt>
+                            </children>
+                            </ankle_r_jnt>
+                    </children>
+                    </knee_r_jnt>
+            </children>
+            </hip_r_jnt>
+    </children>
+    </root_jnt>
+</root>
